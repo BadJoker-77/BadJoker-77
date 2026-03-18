@@ -25,8 +25,9 @@
 
 ---
 
-## 📊 GitHub Stats
 <!--
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BadJoker-77&show_icons=true&theme=tokyonight" />
   <br/>
@@ -37,8 +38,8 @@
 ## 📊 GitHub Stats
 
 ---
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadJoker-77&show_icons=true&theme=tokyonight&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" /> 
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=BadJoker-77&show_icons=true&theme=tokyonight&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" /> 
     <br/><br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadJoker-77&layout=donut&theme=tokyonight&langs_count=6" />
   <img src="https://streak-stats.demolab.com?user=BadJoker-77&theme=tokyonight" />
