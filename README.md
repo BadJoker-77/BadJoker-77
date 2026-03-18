@@ -33,13 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadJoker-77&layout=compact&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Stats -2
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadJoker-77&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadJoker-77&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🐍 My Contributions
