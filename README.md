@@ -25,6 +25,17 @@
 
 ---
 
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!--
 ## 📊 GitHub Stats
 
@@ -43,18 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadJoker-77&layout=donut&theme=tokyonight&langs_count=6" />
   <img src="https://streak-stats.demolab.com?user=BadJoker-77&theme=tokyonight" />
 </p>
----
-
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/BadJoker-77/BadJoker-77/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
