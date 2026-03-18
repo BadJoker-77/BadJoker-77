@@ -2,12 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=20FF3D&center=true&vCenter=true&width=750&lines=Hi...%F0%9F%91%8B+I+am+Pasindu+Ruwantha;Welcome+to+my+profile...%F0%9F%99%8C;%E2%9A%A1+I++am+a+Full-stack+Software+Engineer+;%26+;Front-end+Enthusiast...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%8E%A8%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
+> Angular · React · GoLang · C# Developer · Based in Sri Lanka 🇱🇰
 
 ---
 
