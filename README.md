@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Hi...%F0%9F%91%8B+I+am+Pasindu+Ruwantha;Welcome+to+my+profile...%F0%9F%99%8C;%E2%9A%A1+I++am+a+Full-stack+Software+Engineer+%26+Front-end+Enthusiast...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%8E%A8%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=750&lines=Hi...%F0%9F%91%8B+I+am+Pasindu+Ruwantha;Welcome+to+my+profile...%F0%9F%99%8C;%E2%9A%A1+I++am+a+Full-stack+Software+Engineer+%26+Front-end+Enthusiast...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%8E%A8%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 > Angular · React · GoLang · C# Developer · Based in Sri Lanka 🇱🇰
